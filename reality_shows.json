@@ -1,0 +1,69 @@
+[
+  {
+    "nome_reality": "Big Brother Brasil",
+    "emissora": "Globo",
+    "audiencia_pontos": 22,
+    "participantes": [
+      {
+        "nome_participante": "Davi Brito",
+        "idade": 21,
+        "votos": 0,
+        "premios": [{"nome_premio": "Carro 0km", "valor": 100000}]
+      },
+      {
+        "nome_participante": "Isabelle Nogueira",
+        "idade": 31,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Matteus Amaral",
+        "idade": 27,
+        "votos": 0,
+        "premios": [{"nome_premio": "Viagem Internacional", "valor": 25000}]
+      },
+      {
+        "nome_participante": "Beatriz Reis",
+        "idade": 23,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Alane Dias",
+        "idade": 24,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Giovanna Lima",
+        "idade": 27,
+        "votos": 0,
+        "premios": [{"nome_premio": "Vale-compras", "valor": 5000}]
+      },
+      {
+        "nome_participante": "MC Bin Laden",
+        "idade": 30,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Lucas Henrique",
+        "idade": 29,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Pitel",
+        "idade": 24,
+        "votos": 0,
+        "premios": []
+      },
+      {
+        "nome_participante": "Fernanda Bande",
+        "idade": 32,
+        "votos": 0,
+        "premios": [{"nome_premio": "Eletrodomésticos", "valor": 15000}]
+      }
+    ]
+  }
+]
