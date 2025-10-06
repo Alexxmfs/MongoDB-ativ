@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // =======================================================================
 // SUAS CREDENCIAIS AQUI
-const url = 'mongodb+srv://alexmaceedo:<senha>@<cluster>';
+const url = 'mongodb+srv://alexmaceedo:XGKH0RiGwqPxzS66@cluster01.jfo8ott.mongodb.net';
 // =======================================================================
 
 const client = new MongoClient(url);
